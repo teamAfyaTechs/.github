@@ -10,7 +10,7 @@ Team AfyaTechs is a is a group of innovative students who are focused on solving
 
 2. Denis Wachira - Software engineer who is an advocate of web development and cross-platform UI software solutions 
 
-3. Kezia Wahome- Backend Engineer, passionate about using Azure cloud computing solutions.
+3. Kezia Wahome- Backend Engineer, passionate about using Cloud computing services.
 
 4. Allan Kiche -  Frontend developer, passionate about using Azure cloud computing solutions.
 
